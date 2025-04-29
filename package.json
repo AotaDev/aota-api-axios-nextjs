@@ -1,0 +1,24 @@
+{
+  "name": "aota-api-axios-nextjs",
+  "version": "1.0.0",
+  "description": "This is a JavaScript-based API built with Axios, designed specifically for integration with Next.js applications. It centralizes and simplifies HTTP requests, providing a clean, reusable, and scalable structure for interacting with external services. Ideal for projects consuming RESTful APIs within the Next.js environment, with support for middlewares, interceptors, and custom header configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AotaSolutions/aota-api-axios-nextjs.git"
+  },
+  "keywords": [
+    "api",
+    "nextjs",
+    "axios"
+  ],
+  "author": "AOTA Desenvolvimentos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AotaSolutions/aota-api-axios-nextjs/issues"
+  },
+  "homepage": "https://github.com/AotaSolutions/aota-api-axios-nextjs#readme"
+}
