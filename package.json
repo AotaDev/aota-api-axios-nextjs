@@ -1,6 +1,6 @@
 {
   "name": "aota-api-axios-nextjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a TypeScript-based API built with Axios, designed specifically for integration with Next.js applications. It centralizes and simplifies HTTP requests, providing a clean, reusable, and scalable structure for interacting with external services. Ideal for projects consuming RESTful APIs within the Next.js environment, with support for middlewares, interceptors, and custom header configuration.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
